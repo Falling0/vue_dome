@@ -3,7 +3,7 @@
 
 ### 展示：
 
-![动态图展示]()
+![动态图展示](https://github.com/Falling0/vue_dome/blob/master/dome_img/gif.gif)
 
 登录页面
 ![](https://github.com/Falling0/vue_dome/blob/master/dome_img/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
