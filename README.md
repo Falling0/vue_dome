@@ -1,30 +1,21 @@
-# app
+# vue_dome 
+基于vue开发的后台管理系统dome
 
-> A Vue.js project
+### 展示：
 
-## Build Setup
+![动态图展示]()
 
-``` bash
-# install dependencies
-npm install
+登录页面
+![](https://github.com/Falling0/vue_dome/blob/master/dome_img/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
+home页
+![](https://github.com/Falling0/vue_dome/blob/master/dome_img/home%E9%A1%B5.png)
 
-# build for production with minification
-npm run build
+用户列表
+![](https://github.com/Falling0/vue_dome/blob/master/dome_img/%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8.png)
 
-# build for production and view the bundle analyzer report
-npm run build --report
+角色列表
+![](https://github.com/Falling0/vue_dome/blob/master/dome_img/%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8.png)
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+权限分配
+![](https://github.com/Falling0/vue_dome/blob/master/dome_img/%E6%9D%83%E9%99%90%E5%88%86%E9%85%8D.png)
